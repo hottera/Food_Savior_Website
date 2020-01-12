@@ -77,13 +77,15 @@ haben.</p>
 		<h3> Noch nicht überzeugt? - Lesen Sie doch unter dem Menüpunkt Portfolio von den Erfahrungsberichten
 			 unserer Zufriedenen Kunden </h3>
 
-
+<<<<<<< HEAD
 		<p>"We cannot solve a crisis without treating it as a crisis. And if solutions within the system are so impossible to find, 
 		then maybe we should change the system itself." Greta Thunberg
 		</p>
 		</div>
 =======
 		<p>	Web de major tentation primarimente, se periodicos denominator que. Sia un lista studio millennios, 			asia vices regno non se. Non e tamben subjecto denomination, de duce regno altere sed, ha pote medio 				continentes nos. Asia europeo duo le, medio synonymo interlinguistica ma del.</p>
+		
+>>>>>>> b5222f770c5e4911fd1ada9fc4f902aaf9dbb723
 	</body>
 		</div>
 </html>

@@ -12,10 +12,18 @@ Food Savior Projekt gepostet werden dann können diese gemeinsam im Team besproc
 1) Rollenverteilung
 Grundsätzlich gilt die Rollenverteilung vom Websiten Projekt zu beachten sie lautet wie folgt:
 
+<<<<<<< HEAD
 Sophie -  (Haupt)Beauftragte für das Wiki und die Kanban Tabelle
 Lam -     Zuständig für Wiki, Contribution Guide und Texte, Pull requests
 Alex -    Zuständig für das Design der Website insbesondere alle Tätigkeiten welche CSS betreffen
 Toni -    Zuständig für das Layout und grundsäztlichen Strukturellen Aufbau der Website, insbesondere alle HTML Tätigkeiten
+=======
+Sophie -  (Haupt)Beauftragte für das Wiki, Koordination und changes,
+Lam -     Koordiantor, Changes, Textgestalltung, Contribution Guide
+Alex -    Zuständig für das Design der Website insbesondere alle Tätigkeiten welche CSS betreffen, Wiki und Changes
+Toni -    Zuständig für das Layout und grundsäztlichen Strukturellen Aufbau der Website, insbesondere alle HTML Tätigkeiten, Wiki und
+          Changes
+>>>>>>> 32028164efbe562fe6968d95ef3c6c474bfbe02b
 
 
 Wie aus den Rollenverteilunge ersichtlich bietet es sich an bei jeweiligen Fragen bzw. Anmerkungen sich gleich an die Zuständige 
@@ -43,3 +51,9 @@ Zum Abschluss gilt noch, um nicht unnötig viele (kleine) Pull Requests zu haben
 Forum bzw. den Sozialen Netzwerken von Food Savior angesprochen und gesammelt werden können und anschließend eine (große)
 gemeinschaftliche Request durchzuführen.
 
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> 32028164efbe562fe6968d95ef3c6c474bfbe02b
