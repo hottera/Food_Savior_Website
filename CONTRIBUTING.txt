@@ -1,0 +1,40 @@
+Hallo an alle Mitglieder von Food Savior, 
+
+um die Erstellung unserer Website unkompliziert und übersichtlich zu gestalten fassen wir hier in unserem CONTRIBUTION GUIDE die 
+wichtigesten Fakte schnell für alle zusammen.
+
+Wir bitten daher, dass falls Fragen auftreten oder pull requests gestartet werden - kurz hier nachgeschaut wird um einerseits eine 
+einheitliche Struktur zu gewährleisten, andererseits evtl. Unklarheiten bereits im Vorhinhein geklärt werden können.
+
+Allgemein gilt wie immer falls nach lesen des Dokuments noch Unklarheiten auftreten kann jederzeit auf die Sozialen Netzwerke vom 
+Food Savior Projekt gepostet werden dann können diese gemeinsam im Team besprochen werden.
+
+
+Grundsätzlich gilt die Rollenverteilung vom Websiten Projekt zu beachten sie lautet wie folgt:
+
+Sophie -  (Haupt)Beauftragte für das Wiki und die Kanban Tabelle
+Lam -     Zuständig für Organisation der Push, Pull Requests, sowie Mitwirkender im Wiki
+Alex -    Zuständig für das Design der Website insbesondere alle Tätigkeiten welche CSS betreffen
+Toni -    Zuständig für das Layout und grundsäztlichen Strukturellen Aufbau der Website, insbesondere alle HTML Tätigkeiten
+
+
+Wie aus den Rollenverteilunge ersichtlich bietet es sich an bei jeweiligen Fragen bzw. Anmerkungen sich gleich an die Zuständige 
+Person im Team zu wenden, da diese die dafür notwendige Fachkompetenz besitzt und somit gleich Auskunft geben kann bzw. Änderungen
+vornehmen kann. 
+
+Des weiteren gilt das Veränderungen immer auch an Lam weitergeleitet werden, da dieser die Hauptbeauftragte Person für Pull Requests
+ist.
+
+
+Allgemein versuchen wir Entscheidungen welche sich im größeren Maß auf die Website (egal ob in Inhaltlicher oder Gestalterischer Weiße)
+auswirken als Team zu fällen. Daher bitte bei den jeweiligen Requests auch stest die Reviews aller Beteiligter abwarten und mit-
+einfließen zu lasssen. 
+
+
+Falls der Wunsch besteht Bilder oder ähnliche Materialen die Website miteinzubauen (abgesehen vom Firmen Logo) dann bitte auch stehts
+die Quellenangabe hinzufügen, das gleiche gilt für Zitate oder sonstige externe Daten wie Statistiken o.ä.
+
+
+Zum Abschluss gilt noch, um nicht unnötig viele (kleine) Pull Requests zu haben, dass kleine Änderungen durchaus auch zuerst im 
+Forum bzw. den Sozialen Netzwerken von Food Savior angesprochen und gesammelt werden können und anschließend eine (große)
+gemeinschaftliche Request durchzuführen.
